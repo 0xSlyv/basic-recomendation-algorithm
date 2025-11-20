@@ -1,4 +1,4 @@
-# AVA Store
+# Basic store algorithm
 ## About
 This is a project that makes a small simulation of a store on the console, here's how it works:.
 - Choose a product an buy it.
